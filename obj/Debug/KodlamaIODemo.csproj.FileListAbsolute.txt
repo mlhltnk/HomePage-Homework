@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\Kodlama.io\2. hafta\KodlamaIODemo\bin\Debug\KodlamaIODemo.exe.config
+\\Mac\Home\Desktop\Kodlama.io\2. hafta\KodlamaIODemo\bin\Debug\KodlamaIODemo.exe
+\\Mac\Home\Desktop\Kodlama.io\2. hafta\KodlamaIODemo\bin\Debug\KodlamaIODemo.pdb
+\\Mac\Home\Desktop\Kodlama.io\2. hafta\KodlamaIODemo\obj\Debug\KodlamaIODemo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Kodlama.io\2. hafta\KodlamaIODemo\obj\Debug\KodlamaIODemo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Kodlama.io\2. hafta\KodlamaIODemo\obj\Debug\KodlamaIODemo.exe
+\\Mac\Home\Desktop\Kodlama.io\2. hafta\KodlamaIODemo\obj\Debug\KodlamaIODemo.pdb
